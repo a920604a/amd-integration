@@ -1,0 +1,3 @@
+[submodule "virtualwebcam"]
+	path = virtualwebcam
+	url = git@gitlab.horuseyetech.com:utility/virtualwebcam.git

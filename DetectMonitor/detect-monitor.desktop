@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=.config/autostart/detectMonitor.sh
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=detectMonitor
+Name=detectMonitor
+Comment[en_US]=
+Comment=

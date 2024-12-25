@@ -1,0 +1,10 @@
+[Unit]
+Description=oomii virtual web camera service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/virWebCam.sh \
+ExecReload=/bin/kill -HUP $MAINPID
+
+[Install]
+WantedBy=multi-user.target

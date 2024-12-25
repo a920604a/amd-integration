@@ -1,0 +1,2 @@
+SUBSYSTEMS=="usb", ACTION=="bind", ATTRS{idVendor}=="2207", ATTRS{idProduct}=="0016", RUN+="/usr/local/bin/detectUSB.sh"
+SUBSYSTEMS=="usb", ACTION=="remove", ATTRS{idVendor}=="2207", ATTRS{idProduct}=="0016", RUN+="/usr/local/bin/detectUSB.sh"

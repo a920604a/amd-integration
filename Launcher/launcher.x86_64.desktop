@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=.config/autostart/start_with_camera_check.sh
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=amd
+Name=amd
+Comment[en_US]=
+Comment=

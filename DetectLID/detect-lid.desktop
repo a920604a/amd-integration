@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=.config/autostart/detectLID.sh
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=detectLID
+Name=detectLID
+Comment[en_US]=
+Comment=
+
